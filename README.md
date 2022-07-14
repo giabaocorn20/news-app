@@ -1,3 +1,3 @@
-To begin, the government should restrict the cost of everyday necessities and construct more high-rise structures to cut housing rent as it is getting more expensive. Secondly, to decrease traffic congestion, more public buses with improved facilities should be deployed. Thirdly decentralisation and the growth of provincial towns would allow authorities to move numerous industries to these areas, relieving strain on cities and metropolitan areas and overally improve urban life.
+# news
 
-First,as housing rent is increasingly more costly, the government should first set price caps on basics and build more social housing. Second, additional public buses with better amenities should be used to relieve traffic congestion. Thirdly, decentralization and the expansion of provincial towns would enable authorities to relocate many industries, easing pressure on cities and metropolitan regions and improving urban life in general.
+This will fetch news and output new 
